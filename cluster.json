@@ -1,0 +1,36 @@
+{
+    "__default__" :
+    {
+      "n" : 1,
+      "partition" : "slim18",
+      "time" : "00:40:00",
+      "mem": "10G",
+      "output": "logs/{rule}%A.o",
+      "error": "logs/{rule}%A.e",
+
+    },
+
+    "star_index" :
+    {
+      "n": 32,
+      "time": "0:60:00",
+      "mem": "250G"
+    },
+
+    "STAR" :
+    {
+      "partition" : "slim18",
+      "n": 18,
+      "time": "0:20:00",
+      "mem": "70G"
+    },
+
+    "RSEM" :
+    {
+      "partition" : "slim18",
+      "n": 18,
+      "time": "0:20:00",
+      "mem": "8G"
+    }
+
+}
