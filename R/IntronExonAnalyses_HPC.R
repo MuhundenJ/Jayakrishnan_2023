@@ -1,4 +1,4 @@
-###### Script to analyzse a) Intronic Proportion of genes used in Fig 5 and b) K36me1/2/3 signal across different RNAi conditions separately for Exons and introns as shown in FigS5
+###### Script to analyzse a) Intronic Proportion of genes used in Fig 5 and b) K36me1/2/3 signal across different RNAi conditions separately for Exons and introns as shown in FigS10
 #### run on computational cluster!
 
 rm(list = ls())
