@@ -1,6 +1,6 @@
 ### Script to generate scatter plots comparing the relationship between reader binding changes (Z-score) with absolute K36me2/3 scores upon RNAi
 ### Also formally defines threshold 
-### As shown in Figures S7B,C,D
+### As shown in Figures S13B,C,D
 
 ######### initialize general packages
 
