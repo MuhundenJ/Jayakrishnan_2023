@@ -1,7 +1,7 @@
 ### Script for following z-score related analyses 
 #### Fig 3 - z-score paired scatter
 #### Fig 4C - z-score for Huang K36me2 in Ash1 RNAi 
-#### Fig 6 and S7 - z-score densities for selected clusters for K36me1/2/3 and readers
+#### Fig 6 and S13 - z-score densities for selected clusters for K36me1/2/3 and readers
 ######### initialize general packages
 
 rm(list=ls())
