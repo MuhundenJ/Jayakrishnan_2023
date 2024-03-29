@@ -1,4 +1,4 @@
-######### #Script to analyze RNAseq data from Lindehell 2021 et al --- Venn diagrams in Fig S2
+######### #Script to analyze RNAseq data from Lindehell 2021 et al --- Venn diagrams in Fig S3
 
 library(tidyverse)
 library(devtools)
