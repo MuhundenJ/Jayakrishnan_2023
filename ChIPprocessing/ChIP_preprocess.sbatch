@@ -101,7 +101,7 @@ mapped=`samtools view -c -F 4 ${FILEBASE}.dvir.bam | bc`
 
         # dmel reads scaled according to matched virilis sample  for normalization
 
-makeTagDirectory ${FILEBASE}.dvirNorm.dir -single -totalReads $mapped ${FILEBASE}.dmel.bam
+makeTagDirectory ${FILEBASE}.dvirNorm.dir -totalReads $mapped ${FILEBASE}.dmel.bam
 
 	# dmel reads scaled to total library size for normalization 
 
